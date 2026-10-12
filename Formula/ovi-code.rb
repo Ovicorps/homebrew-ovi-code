@@ -13,7 +13,7 @@ class OviCode < Formula
   homepage "https://github.com/Ovicorps/ovi-code"
   url "https://github.com/Ovicorps/ovi-code/archive/refs/tags/v0.1.1.tar.gz"
   sha256 "bd37e893f99146689963db4361a353cfa6c666e55dc24f8aa45dbd9b3a99bab5"
-  license "MIT"
+  license "Apache-2.0"
   head "https://github.com/Ovicorps/ovi-code.git", branch: "main"
 
   livecheck do
